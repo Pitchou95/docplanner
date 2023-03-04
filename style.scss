@@ -1,0 +1,141 @@
+.bgicon {
+  display: flex;
+  justify-content: center;
+}
+.h1 {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  color: rgb(0, 197, 155);
+  font-family: 'Charmonman', cursive;
+  font-size: 29px;
+}
+.text-center {
+  font-weight: 400;
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+  padding-top: 70px;
+  margin: 4%;
+  -webkit-font-smoothing: antialiased;
+}
+.text-bg-success {
+  background-color: rgb(0, 197, 155);
+  color: white;
+}
+.text-bg-primary {
+  background-color: rgb(8, 148, 255);
+}
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 32px;
+  font-size: 23px;
+  height: 345px;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  text-align: left;
+  transition: all 0.2s;
+  color: #fff;
+  background-color: #00ccb1;
+}
+.card2 {
+  border-radius: 10px;
+  padding: 2em 2em 0;
+  overflow: hidden;
+  height: 345px;
+  width: 90%;
+  padding: 32px;
+  font-size: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  transition: all 0.2s;
+  color: #ffffff;
+  background-color: #3d83df;
+}
+.card3 {
+  border-radius: 10px;
+  padding: 6em 2em 0;
+  overflow: hidden;
+  height: 345px;
+  width: 90%;
+  padding: 32px;
+  font-size: 23px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  transition: all 0.2s;
+  color: #fff;
+  background-color: #1b2734;
+}
+card-titlle {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  text-align: left;
+  margin-left: 8%;
+}
+.form-select {
+  position: static;
+  vertical-align: middle;
+  outline: 0;
+  height: 85px;
+  background: none;
+  border: 0;
+  color: #faecec;
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.04em;
+
+  font-size: 18px;
+  text-align: center;
+}
+.form-select1 {
+  position: static;
+  height: 20px;
+  background: none;
+  border: 0;
+
+  color: #faecec;
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  font-size: 17px;
+  text-align: center;
+}
+.countries-existing {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  outline: 0;
+  height: 200px;
+  background: none;
+  border: 0;
+  color: #faecec;
+  font-family: Roboto, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: 0.04em;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.company {
+  color: #00b39b;
+  align-items: center;
+  font-size: 39px;
+  font-size: 2.125rem;
+  margin: 1em 0;
+  font-family: Work Sans, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.3px;
+}
+.btn-primary {
+  color: #747474;
+  background: transparent;
+}
